@@ -44,11 +44,11 @@ main {
 }
 
 .indented-heading {
-  padding: 16px 36px;
+  padding: 16px 32px;
   background-color: hsl(45deg, 100%, 50%);
   width: fit-content;
   border-bottom: hsl(45deg, 100%, 40%) solid 4px;
-  margin-left: -36px;
-  margin-top: 4px;
+  margin-left: -32px;
+  margin-top: 8px;
 
 }
